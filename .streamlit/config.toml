@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#E63946"
+backgroundColor = "#FFF8E1"
+secondaryBackgroundColor = "#FFE082"
+textColor = "#3D2B1F"
+linkColor = "#F4A261"
+borderColor = "#F6C453"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "12px"
+
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+
+greenColor = "#2A9D8F"
+yellowColor = "#F6C453"
+redColor = "#E63946"
